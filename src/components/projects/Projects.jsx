@@ -30,7 +30,7 @@ export const Projects = forwardRef((props, ref) => {
         </article>
         <article className="project">
           <div className="flex flex-center-y gap-2 flex-column-xs">
-            <img className="rounded" height={200} src="/images/replovers.png" />
+            <img className="rounded" height={200} src="/images/portfolio.png" />
             <div className="flex flex-direction-column">
               <div>
                 <h3 className="mt-0">My portfolio</h3>
