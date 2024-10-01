@@ -18,7 +18,7 @@ export const Skills = forwardRef((props, ref) => {
       <Tag icon="tabler:brand-threejs" text="three.js" />
       <Tag icon="devicon:mysql" text="MySQL" />
       <Tag icon="devicon:git" text="GIT" />
-      <Tag icon="devicon:docker" text="Docker" />
+      <Tag icon="devicon:docker" text="Docker"/>
     </div>
   </>
   )
